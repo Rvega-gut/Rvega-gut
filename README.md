@@ -1,7 +1,7 @@
 # 👋 Hola! soy Ricardo Vega
 
 Ingeniero Civil Matemático titulado de la Universidad de Concepción (Chile).  
-Mi formación está centrada en las **matemáticas discretas**, el razonamiento lógico y el modelamiento de sistemas.  
+Mi formación se centra en las **matemáticas discretas**, el razonamiento lógico y el modelamiento de sistemas.  
 Me interesa aplicar métodos matemáticos y herramientas computacionales para el **análisis y procesamiento de datos**.
 ---
 
