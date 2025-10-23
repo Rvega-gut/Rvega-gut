@@ -8,7 +8,7 @@ Me interesa aplicar métodos matemáticos y herramientas computacionales para el
 ## 📂 Mi Portafolio
 Aqui se encuentran proyectos académicos y personales relacionados con el análisis y la visualización de datos:
 
-🔗 [**Ver mi portafolio de análisis de datos**](https://github.com/portafolio-ricardo-vega)
+🔗 [**Ver mi portafolio de análisis de datos**](https://github.com/Rvega-gut/portafolio-ricardo-vega)
 
 ---
 
