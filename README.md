@@ -5,17 +5,17 @@ Mi formación se centra en las **matemáticas discretas**, el razonamiento lógi
 Me interesa aplicar métodos matemáticos y herramientas computacionales para el **análisis y procesamiento de datos**.
 ---
 
-## 📂 Mi Portafolio
+## 📂 Portafolio
 Aqui se encuentran proyectos académicos y personales relacionados con el análisis y la visualización de datos:
 
 🔗 [**Ver mi portafolio de análisis de datos**](https://github.com/Rvega-gut/portafolio-ricardo-vega)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-- **Python** → pandas, numpy, sklearn, tensorflow, bs4  
-- **Power BI** → modelado, DAX, Power Query  
-- **Excel avanzado** → fórmulas, tablas dinámicas, dashboards  
+## 🛠️ Conocimientos
+- **Python** → Experiencia con pandas, numpy, sklearn, tensorflow, bs4  
+- **Power BI** → Experiencia con modelado, DAX, Power Query  
+- **Excel avanzado** → fórmulas, tablas dinámicas, dashboards, macros  
 - **SQL básico** → consultas, filtros, combinaciones de datos  
 
 ---
